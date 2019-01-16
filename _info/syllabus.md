@@ -1,5 +1,5 @@
 ---
-title: "Syllabus, CMPSC 190J, Spring 2018"
+title: "Syllabus, CMPSC 190J, Winter 2019"
 layout: handout
 ready: false
 ---
@@ -64,7 +64,7 @@ For purposes of calculating a final course grade, a numeric value out of 100 wil
 
 The course has three main components lectures, discussions and homeworks as described below.
 
-* <b>Lectures</b> will cover best practices and current research in CS pedagogy with the goal of providing students with the  knowledge and skill set needed to be an effective mentor and teacher of Computer Science. Students will learn about how to assist other students in lab sections, learn about different pedagogical techniques and the ethics of being a mentor. These topics will be presented in the context of four specific undergraduate courses:  CS8, CS16, CS24 and CS 56.  
+* <b>Lectures</b> will cover best practices and current research in CS pedagogy with the goal of providing students with the  knowledge and skill set needed to be an effective mentor and teacher of Computer Science. Students will learn about how to assist other students in lab sections, learn about different pedagogical techniques and the ethics of being a mentor. These topics will be presented in the context of five specific undergraduate courses:  CS8, CS16, CS24, CS 32 and CS 56.  
 
 
 * In <b>discussion sections</b> and <b>open lab hours</b> students will apply the content covered in lectures to mentor students in the context of either CS 8 or CS56.  At the outset of the course, each student in CS190J will be assigned to one of these two courses where they will gain hands-on experience as “course mentors”. Students must attend one discussion section weekly that is co-located with the discussion section(s) of the course that they have been assigned to (either CS8 or CS56).  See the following sections on “Mentoring in the context of CS8/56” for more information.
