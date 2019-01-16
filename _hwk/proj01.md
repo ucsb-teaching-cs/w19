@@ -2,8 +2,8 @@
 num: "proj01"
 desc: "Observed 1-on-1 help session"
 ready: true 
-assigned: 2018-04-19 15:30:00.00-8:00
-due: 2018-04-26 17:00:00.00-8:00
+assigned: 2019-01-07 08:00:00.00-8:00
+due: 2019-03-15 11:59:00.00-8:00
 ---
 
 # Scheduling your one-on-one observations
