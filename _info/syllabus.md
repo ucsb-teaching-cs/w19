@@ -7,11 +7,11 @@ ready: false
 Basic Facts
 -----------
 
-* **Course Web Site**: <http://ucsb-cs190j-s18.github.io>
-* **Instructors**: Phill Conrad, Diba Mirza, Richert Wang
+* **Course Web Site**: <http://ucsb-teaching-cs.github.io/w19/>
+* **Instructors**: Diba Mirza
 
-* **Lecture**: R 9:30-10:45am HFH 1132, ATTENDANCE REQUIRED.
-* **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned.   The actual time might not correspond to the one listed on GOLD.   The time will be some combination of service during your courses discussion sections, and/or service during open labs hours.   The open lab hours are shared across the four courses.
+* **Lecture**: F 3:30-4:45pm PHELPS 3526, ATTENDANCE REQUIRED.
+* **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned. The actual time might not correspond to the one listed on GOLD. The time will be some combination of service during your courses discussion sections, and/or service during open labs hours. The open lab hours are shared across the four courses.
 
 | Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Weekly Meeting |
 |----------|----------------|--------------------|------------------|-------------------------------------------------|-|

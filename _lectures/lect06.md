@@ -2,7 +2,7 @@
 num: "Lecture 6"
 desc: "Creating a climate that supports the learning of all students"
 ready: false
-date: 2018-02-15 15:30:00.00-8:00
+date: 2019-02-15 15:30:00.00-8:00
 ---
 
 # Preparing for lightning talks
