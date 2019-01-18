@@ -1,5 +1,5 @@
 ---
-title: "S18 open lab hours"
+title: "Lab Hours"
 layout: default
 ready: true
 ---
