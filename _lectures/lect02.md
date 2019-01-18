@@ -12,17 +12,6 @@ date: 2019-01-18 15:30:00.00-8:00
 Below are a few short skits that we will use to reflect and understand some of the do's and don'ts of tutoring!
 For each scene reflect on what the tutor did, what would you do differently, suggest a title for the scene.
 
-## List of don'ts
-* Don't take control of the students keyboard (without asking)
-* Don't give away the answer (unless they are really stuck, very trivial, very complicated, or student is extremely frustrated) - M&A
-* Keep your cool even if the student is anxious or beligerent - Mo&J
-* Don't be condescending - D&T
-* Don't be afraid to say I don't know but let's find out
-* Refer to the lab write up and syllabus where appropriate 
-* Don't undermine the course, the lab, the instructor, your peers 
-* Keep the interaction and interersting
-* Don't use terms that they don't 
-* Reflect on your tutoring/TA sessions
 
 
 ## Scene 1
@@ -113,6 +102,26 @@ Student: I am in the correct path but my tests are still failing. Can you just t
 
 Tutor: No, the professor has told me not to give away the answer.
 
+
+## More skits
+
+Work on skits that relate to some of the "advice" below on tutoring dos and don'ts
+
+Don'ts:
+
+* Don't take control of the students keyboard (without asking)
+* Don't give away the answer (unless they are really stuck, very trivial, very complicated, or student is extremely frustrated) - M&A
+* Don't be condescending - D&T
+* Don't be afraid to say I don't know but let's find out.
+* Don't undermine the course, the lab, the instructor, your peers
+* Don't use terms that students don't know 
+
+Do's:
+
+* Keep your cool even if the student is anxious or beligerent - Mo&J
+* Keep the interaction and interersting
+* Refer to the lab write up and syllabus where appropriate 
+* Reflect on your tutoring/TA sessions
 
 # Homework
 
