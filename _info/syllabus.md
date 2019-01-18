@@ -8,17 +8,18 @@ Basic Facts
 -----------
 
 * **Course Web Site**: <http://ucsb-teaching-cs.github.io/w19/>
-* **Instructors**: Diba Mirza
+* **Instructor**: Diba Mirza
 
 * **Lecture**: F 3:30-4:45pm PHELPS 3526, ATTENDANCE REQUIRED.
 * **Discussion Section**.  5 hours of discussion section, negotiated with your supervising instructor, in service to the course to which you are assigned. The actual time might not correspond to the one listed on GOLD. The time will be some combination of service during your courses discussion sections, and/or service during open labs hours. The open lab hours are shared across the four courses.
 
 | Course   | Number<br> of CS190J mentors | Supervising <br> Instructor | Official<br> Discussion Time<br> on GOLD | Actual<br> Course Discussion Section <br> Times | Weekly Meeting |
 |----------|----------------|--------------------|------------------|-------------------------------------------------|-|
-| CMPSC 8  | 3 | Phill Conrad    | Mon 9am - 11:50am  | Mon 8am-11:50am  | TBD: Ask PHILL |
-| CMPSC 16 | 6 | Diba Mirza     | Tue 1pm - 03:50am | Tue 11am-2:50pm  |  Tue 3pm - 4pm |
-| CMPSC 24 | 5 | Diba Mirza     | Tue 2pm - 4:50pm  | Tue 3pm-6:50pm  | Tue 2pm - 3pm |
+| CMPSC 8  | 3 | Diba Mirza   | Wed 9am - 11:50am  | Mon 8am-11:50am  | TBD: Ask PHILL |
+| CMPSC 16 | 6 | Kate Kharitonova     | Tue 1pm - 03:50am | Tue 11am-2:50pm  |  Tue 3pm - 4pm |
+| CMPSC 24 | 5 | Diba Mirza     | Mon 9am - 11:50pm  | Tue 3pm-6:50pm  | Tue 2pm - 3pm |
 | CMPSC 32 | 4 | Richert Wang  | Wed 4pm - 6:50pm   | Wed Noon-3:50pm   | TBD: Ask RICHERT |
+| CMPSC 48 | 4 | Phill Conrad  | Wed 4pm - 6:50pm   | Wed Noon-3:50pm   | TBD: Ask RICHERT |
 
 The three instructors and the students in the course should coordinate their scheduled open labs times so as to ensure that there is coverage across the courses, and that the lab does not become overcrowded.
 
