@@ -1,8 +1,8 @@
 ---
-num: "Lecture 2"
+num: "Lecture 3"
 desc: "Revealing Implicit Bias, CS Ed Research topics (HW1)"
 ready: true
-date: 2019-01-18 15:30:00.00-8:00
+date: 2019-01-25 15:30:00.00-8:00
 ---
 
 # Review [H00]({{site.url}}/hwk/h00/) 
