@@ -21,15 +21,24 @@ Our starting point for the discussion is the following quote from the book "How 
 
 Some questions to guide the discussion:
 
-* What does PCK mean more simply?
-* Recall a time where you have might have used PCK to better assist a student? (Its likely that you didn't call it PCK!)
+* What does PCK mean to you?
+* Recall a time when one of your teachers used PCK in their teaching or to help you understand a concept.
+* Recall a time when you (as a tutor) have might have used PCK to assist a student? (Its likely that you didn't call it PCK!)
 
 
 ## Practice one on one explanations 
 
-To practice, we will play a game with flash cards
+To practice, we will play a game that involves flash cards. Each flash card has a question or a concept that a student is confused about. The goal of the game is to 
+
+1. Practice explaining a concept in different ways, and as clearly as possible in 2 to 3 minutes
+
+2. Think about specific misunderstandings that a student may have related to that question.
+
+3. Refine your explanations based on your insights from 2.
+
+In line with these goals, we will play the game in three rounds:
 * Break into small group
-* Individuals take turns explaining the same concept to one other person in the group
+* First round: Take turns picking a flash card and reading it to your group
 * In the first round focus on explaining the same problem in different ways. Observe others and take notes about their explanation.
 * In the second round, repeat the same process as before and with the same topic. The person explaining a concept should additionally pick a "Tip card" and try to incorporate the tip in their interaction. 
 * Debrief
