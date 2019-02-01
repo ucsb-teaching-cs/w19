@@ -1,6 +1,6 @@
 ---
 num: "Lecture 3"
-desc: "Revealing Implicit Bias, CS Ed Research topics (HW1)"
+desc: "Revealing Implicit Bias, CS Ed Research topics"
 ready: true
 date: 2019-01-25 15:30:00.00-8:00
 ---

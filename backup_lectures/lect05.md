@@ -8,6 +8,10 @@ date: 2019-02-08 15:30:00.00-8:00
 ## Goal
 The goal of this lecture is to allow you to have an authentic experience of "a student in the class" working on a programming assignment. We will simulate the experience of students and tutors in lab sections and discuss effective ways of helping students when they get stuck on programming assignments.
 
+
+
+We will then do an activity that is inspired by another article by Mark Guzdial on [the critical part of PCK: What students get wrong](https://computinged.wordpress.com/2013/05/13/the-critical-part-of-pck-what-students-get-wrong/) and Phil Sadler research studey on measuring PCK for Science teachers. 
+
 ## Lesson plan
 
 * Bring your laptop to class
