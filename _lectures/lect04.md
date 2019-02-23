@@ -36,8 +36,8 @@ To practice, we will play a game that involves flash cards. Each flash card has 
 
 3. Refine your explanations based on your insights from 2.
 
-In line with these goals, we will play the game in three rounds:
-* Break into small group
+In line with these goals, we will do the following activity:
+* Break into small groups 5-6 students
 * First round: Take turns picking a flash card and reading it to your group
 * In the first round focus on explaining the same problem in different ways. Observe others and take notes about their explanation.
 * In the second round, repeat the same process as before and with the same topic. The person explaining a concept should additionally pick a "Tip card" and try to incorporate the tip in their interaction. 
@@ -64,7 +64,7 @@ In line with these goals, we will play the game in three rounds:
 * Why do I need to compile my code everytime?
 * What is the difference between .h and .cpp files
 
-The two main goals for this session are:
+The  main goals for this session are:
 * practice explaining concepts in different ways
 * explore important elements of one-on-one interaction with student 
 (we will specifically focus on how to engage with students and promote discussion using a few techniques)
