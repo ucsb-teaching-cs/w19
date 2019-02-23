@@ -17,11 +17,6 @@ date: 2019-02-08 15:30:00.00-8:00
 
 * Divide into two groups as per the assignements below and follow the instructions provided
 
-## Group A 
-* TBD
-
-## Group B 
-* TBD
 
 * We will take a break to discuss your observations from this activity and go over the tips in [this handout](http://csteachingtips.org/tips-for-tutors)
 
