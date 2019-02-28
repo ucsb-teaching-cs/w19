@@ -1,7 +1,7 @@
 ---
 title: "Syllabus, CMPSC 190J, Winter 2019"
 layout: handout
-ready: false
+ready: true
 ---
 
 Basic Facts
